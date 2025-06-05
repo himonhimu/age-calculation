@@ -1,6 +1,6 @@
 {
   "name": "age-calculation",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "this is age calculation npm package",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/himonhimu/age-calculation/issues"
   },
-  "homepage": "https://github.com/himonhimu/age-calculation#readme"
+  "homepage": "https://github.com/himonhimu/age-calculation#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
